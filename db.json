@@ -1,0 +1,32 @@
+{
+  "customers": [
+    {
+      "name": "john wick3",
+      "details": "He come from ASU3",
+      "gender": "female",
+      "rating": 2,
+      "id": 3
+    },
+    {
+      "name": "qwew wqeqwe",
+      "details": "qweqweqwe",
+      "gender": "male",
+      "rating": 5,
+      "id": 14
+    },
+    {
+      "name": "duc chionh1",
+      "details": "123213",
+      "gender": "male",
+      "rating": 5,
+      "id": 15
+    },
+    {
+      "name": "eqweqw qweqweqw",
+      "details": "qwewqeqw",
+      "gender": "male",
+      "rating": 5,
+      "id": 16
+    }
+  ]
+}
